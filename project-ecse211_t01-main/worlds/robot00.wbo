@@ -1,0 +1,66 @@
+DPM-Robot {
+  hidden position_2_0 0.0008669626634897403
+  hidden translation_3 -7.960448525778929e-05 1.5944954358415586e-05 0.00014593367767972223
+  hidden rotation_3 0.21382960256396352 0.43593252153649226 0.8742080631830006 0.788727792460455
+  hidden position_12_0 0.0045815629042821595
+  hidden translation_13 -9.666099068450507e-05 -4.805989906209174e-05 0.0001101530042157961
+  hidden rotation_13 -0.4842437318440114 0.2688830788115528 -0.8325922760262704 -1.7540810993383493
+  hidden rotation_15 0.9840318713354675 0.17795878166931664 -0.0034566201396925896 2.367550212081709e-06
+  hidden rotation_18 0.985054967254125 -0.17220779007368966 0.0033449253968914875 2.446696251842388e-06
+  name "T01Robot"
+  translation 0.1524 2.5908 0.0609458
+  rotation -0.00016840351685248021 0.005225315907777351 0.9999863337635767 -3.126947217198325
+  children [
+    T01Robot_base-solid {
+      translation 0 -0.0032 -0.0055
+    }
+    BallCaster {
+      name "ballcaster2"
+      translation 0.016 -0.0597 -0.041
+    }
+    EV3-Ultrasonic {
+      name "S1"
+      translation -0.0103 0.0383 0.0411
+      rotation 0 0 1 3.14159
+    }
+    EV3-ColorSensor {
+      name "S2"
+      translation -0.04 0.068 -0.018
+      rotation 9.381857096790023e-07 0.7071067811862364 0.7071067811862364 3.14159
+    }
+    EV3-ColorSensor {
+      name "S3"
+      translation 0.04 0.068 -0.019
+      rotation 9.381857096790023e-07 0.7071067811862364 0.7071067811862364 3.14159
+    }
+    BallCaster {
+      name "b"
+      translation -0.016 -0.0597 -0.041
+    }
+    EV3-LargeMotor {
+      name "A"
+      translation -0.0552 -0.0013 -0.0252
+      position 0.2355526422062522
+      children [
+        Wheel {
+          translation -0.021 0 0
+          rotation 0 0 -1 1.5707996938995747
+        }
+      ]
+    }
+    EV3-LargeMotor {
+      name "D"
+      translation 0.0556 -0.0013 -0.0252
+      position -0.6579854662075264
+      children [
+        Wheel {
+          translation 0.021 0 0
+          rotation 0 0 -1 -1.5707996938995747
+        }
+      ]
+    }
+    EV3 {
+    }
+  ]
+  controller "T01Controller"
+}

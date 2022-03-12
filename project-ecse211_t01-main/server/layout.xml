@@ -1,0 +1,112 @@
+<xml>
+  <inputs>
+    <team key="RedTeam">
+      <label>Red team number</label>
+    </team>
+    <int key="RedCorner">
+      <label>Red team's starting corner</label>
+    </int>
+    <team key="GreenTeam">
+      <label>Green team number</label>
+    </team>
+    <int key="GreenCorner">
+      <label>Green team's starting corner</label>
+    </int>
+    <coordinate keyx="Red_LL_x" keyy="Red_LL_y">
+      <label>Lower left hand corner of the Red Zone</label>
+    </coordinate>
+    <coordinate keyx="Red_UR_x" keyy="Red_UR_y">
+      <label>Upper right hand corner of the Red Zone</label>
+    </coordinate>
+    <coordinate keyx="Green_LL_x" keyy="Green_LL_y">
+      <label>Lower left hand corner of the Green Zone</label>
+    </coordinate>
+    <coordinate keyx="Green_UR_x" keyy="Green_UR_y">
+      <label>Upper right hand corner of the Green Zone</label>
+    </coordinate>
+    <coordinate keyx="Island_LL_x" keyy="Island_LL_y">
+      <label>Lower left hand corner of the Island</label>
+    </coordinate>
+    <coordinate keyx="Island_UR_x" keyy="Island_UR_y">
+      <label>Upper right hand corner of the Island</label>
+    </coordinate>
+    <coordinate keyx="TNR_LL_x" keyy="TNR_LL_y">
+      <label>Lower left hand corner of the red tunnel footprint</label>
+    </coordinate>
+    <coordinate keyx="TNR_UR_x" keyy="TNR_UR_y">
+      <label>Upper right hand corner of the red tunnel footprint</label>
+    </coordinate>
+    <coordinate keyx="TNG_LL_x" keyy="TNG_LL_y">
+      <label>Lower left hand corner of the green tunnel footprint</label>
+    </coordinate>
+    <coordinate keyx="TNG_UR_x" keyy="TNG_UR_y">
+      <label>Upper right hand corner of the green tunnel footprint</label>
+    </coordinate>
+    <coordinate keyx="OP_A_x" keyy="OP_A_y">
+      <label>Location of overpass endpoint A</label>
+    </coordinate>
+    <coordinate keyx="OP_B_x" keyy="OP_B_y">
+      <label>Location of overpass endpoint B</label>
+    </coordinate>
+    <coordinate keyx="WP_0_x" keyy="WP_0_y">
+      <label>Racecourse waypoint 0</label>
+    </coordinate>
+    <coordinate keyx="WP_1_x" keyy="WP_1_y">
+      <label>Racecourse waypoint 1</label>
+    </coordinate>
+    <coordinate keyx="WP_2_x" keyy="WP_2_y">
+      <label>Racecourse waypoint 2</label>
+    </coordinate>
+    <coordinate keyx="WP_3_x" keyy="WP_3_y">
+      <label>Racecourse waypoint 3</label>
+    </coordinate>
+    <coordinate keyx="WP_4_x" keyy="WP_4_y">
+      <label>Racecourse waypoint 4</label>
+    </coordinate>
+    <coordinate keyx="WP_5_x" keyy="WP_5_y">
+      <label>Racecourse waypoint 5</label>
+    </coordinate>
+    <coordinate keyx="WP_6_x" keyy="WP_6_y">
+      <label>Racecourse waypoint 6</label>
+    </coordinate>
+    <coordinate keyx="WP_7_x" keyy="WP_7_y">
+      <label>Racecourse waypoint 7</label>
+    </coordinate>
+    <coordinate keyx="WP_8_x" keyy="WP_8_y">
+      <label>Racecourse waypoint 8</label>
+    </coordinate>
+    <coordinate keyx="WP_9_x" keyy="WP_9_y">
+      <label>Racecourse waypoint 9</label>
+    </coordinate>
+    <coordinate keyx="WP_10_x" keyy="WP_10_y">
+      <label>Racecourse waypoint 10</label>
+    </coordinate>
+    <coordinate keyx="WP_11_x" keyy="WP_11_y">
+      <label>Racecourse waypoint 11</label>
+    </coordinate>
+    <coordinate keyx="WP_12_x" keyy="WP_12_y">
+      <label>Racecourse waypoint 12</label>
+    </coordinate>
+    <coordinate keyx="WP_13_x" keyy="WP_13_y">
+      <label>Racecourse waypoint 13</label>
+    </coordinate>
+    <coordinate keyx="WP_14_x" keyy="WP_14_y">
+      <label>Racecourse waypoint 14</label>
+    </coordinate>
+    <coordinate keyx="WP_15_x" keyy="WP_15_y">
+      <label>Racecourse waypoint 15</label>
+    </coordinate>
+    <coordinate keyx="WP_16_x" keyy="WP_16_y">
+      <label>Racecourse waypoint 16</label>
+    </coordinate>
+    <coordinate keyx="WP_17_x" keyy="WP_17_y">
+      <label>Racecourse waypoint 17</label>
+    </coordinate>
+    <coordinate keyx="WP_18_x" keyy="WP_18_y">
+      <label>Racecourse waypoint 18</label>
+    </coordinate>
+    <coordinate keyx="WP_19_x" keyy="WP_19_y">
+      <label>Racecourse waypoint 19</label>
+    </coordinate>
+  </inputs>
+</xml>

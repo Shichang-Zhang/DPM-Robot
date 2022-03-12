@@ -1,0 +1,73 @@
+<xml>
+  <value key="RedTeam">1</value>
+  <value key="RedCorner">3</value>
+
+  <value key="GreenTeam">#</value>
+  <value key="GreenCorner">2</value>
+
+  <value key="Red_LL_x">0</value>
+  <value key="Red_LL_y">0</value>
+
+  <value key="Red_UR_x">2</value>
+  <value key="Red_UR_y">9</value>
+
+  <value key="Green_LL_x">13</value>
+  <value key="Green_LL_y">0</value>
+
+  <value key="Green_UR_x">15</value>
+  <value key="Green_UR_y">9</value>
+
+  <value key="Island_LL_x">4</value>
+  <value key="Island_LL_y">0</value>
+
+  <value key="Island_UR_x">11</value>
+  <value key="Island_UR_y">9</value>
+
+  <value key="TNR_LL_x">2</value>
+  <value key="TNR_LL_y">0</value>
+
+  <value key="TNR_UR_x">4</value>
+  <value key="TNR_UR_y">1</value>
+
+  <value key="TNG_LL_x">11</value>
+  <value key="TNG_LL_y">8</value>
+
+  <value key="TNG_UR_x">13</value>
+  <value key="TNG_UR_y">9</value>
+
+  <value key="OP_A_x">8</value>
+  <value key="OP_A_y">3</value>
+
+  <value key="OP_B_x">8</value>
+  <value key="OP_B_y">8</value>
+
+  <value key="WP_0_x">10</value>
+  <value key="WP_0_y">8</value>
+
+  <value key="WP_1_x">100</value>
+  <value key="WP_1_y">100</value>
+
+  <value key="WP_2_x">100</value>
+  <value key="WP_2_y">100</value>
+
+  <value key="WP_3_x">100</value>
+  <value key="WP_3_y">100</value>
+
+  <value key="WP_4_x">100</value>
+  <value key="WP_4_y">100</value>
+
+  <value key="WP_5_x">100</value>
+  <value key="WP_5_y">100</value>
+
+  <value key="WP_6_x">100</value>
+  <value key="WP_6_y">100</value>
+
+  <value key="WP_7_x">100</value>
+  <value key="WP_7_y">100</value>
+
+  <value key="WP_8_x">100</value>
+  <value key="WP_8_y">100</value>
+
+  <value key="WP_9_x">100</value>
+  <value key="WP_9_y">100</value>
+</xml>
